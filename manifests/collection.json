@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://iiifeliukk.github.io/iiiftesting/manifests/manifest_wiipuri.json",
     "label" : "Wiipuri 1901"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://iiifeliukk.github.io/iiiftesting/manifests/manifest_wiipuri2.json",
+    "label" : "Wiipuri 1901"
   } ]
 }
