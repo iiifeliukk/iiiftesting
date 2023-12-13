@@ -1,0 +1,13 @@
+{
+  "id" : "https://iiifeliukk.github.io/iiiftesting/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in iiifeliukk/iiiftesting project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://iiifeliukk.github.io/iiiftesting/manifests/manifest_wiipuri.json",
+    "label" : "Wiipuri 1901"
+  } ]
+}
