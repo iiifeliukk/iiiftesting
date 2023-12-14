@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://iiifeliukk.github.io/iiiftesting/annotations/p1.json", "https://iiifeliukk.github.io/iiiftesting/annotations/p2.json" ],
+  "otherContent" : [ "https://iiifeliukk.github.io/iiiftesting/annotations/p1.json", "https://iiifeliukk.github.io/iiiftesting/annotations/p2.json", "https://iiifeliukk.github.io/iiiftesting/annotations/p3.json" ],
   "@id" : "https://iiifeliukk.github.io/iiiftesting/annotations/collection.json",
   "label" : "All annotations loaded in iiifeliukk/iiiftesting project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
