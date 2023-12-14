@@ -88,6 +88,12 @@
       "label" : "Wiipuri 1901 p.2",
       "height" : 3544,
       "width" : 2634,
+      "seeAlso" : [ {
+        "@id" : "https://raw.githubusercontent.com/iiifeliukk/iiiftesting/main/page-2.xml",
+        "label" : "OCR text",
+        "format" : "application/xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://a2bb6f74-6dd6-456c-9b29-75f4311eb8ac",
@@ -123,6 +129,12 @@
       "label" : "Wiipuri 1901 p.3",
       "height" : 3537,
       "width" : 2732,
+      "seeAlso" : [ {
+        "@id" : "https://raw.githubusercontent.com/iiifeliukk/iiiftesting/main/page-3.xml",
+        "label" : "OCR text",
+        "format" : "application/xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://9ec179b2-9b16-4677-ba1a-a23aba221eba",
@@ -158,6 +170,12 @@
       "label" : "Wiipuri 1901 p.4",
       "height" : 3551,
       "width" : 2595,
+      "seeAlso" : [ {
+        "@id" : "https://raw.githubusercontent.com/iiifeliukk/iiiftesting/main/page-4.xml",
+        "label" : "OCR text",
+        "format" : "application/xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://ce155761-9c9b-4430-b97c-a5dd1e4a5e53",
