@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "bank",
+      "@type" : "oa:Tag",
+      "chars" : "bank"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "advertisement",
+      "@type" : "oa:Tag",
+      "chars" : "advertisement"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "bank advertisement",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>bank advertisement</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153738070",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-14T12:26:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702556780882",
+    "dcterms:modified" : "2023-12-14T12:26:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiifeliukk.github.io/iiiftesting/manifests/manifest_wiipuri2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1856,78,740,328"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1855.87105,78.48799h369.90329v0h369.90329v164.21176v164.21176h-369.90329h-369.90329v-164.21176z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7ae18fac-1e8b-4ce5-80a5-20af48dd0c48\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5e273cd4-f9c0-4bef-a9c5-8e0dcd3b34d3"
+    } ]
+  } ],
+  "@id" : "https://iiifeliukk.github.io/iiiftesting/annotations/p3.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
