@@ -65,6 +65,11 @@
         },
         "on" : "http://7dda2e5c-d9a9-4454-890f-9f9207a7e7f7"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://iiifeliukk.github.io/iiiftesting/annotations/p1.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Page 1annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://7fde1d41-46be-42d4-a5cc-4e9f85c5c6ac",
@@ -95,11 +100,16 @@
         },
         "on" : "http://7fde1d41-46be-42d4-a5cc-4e9f85c5c6ac"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://iiifeliukk.github.io/iiiftesting/annotations/p2.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Page 2 annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://5e273cd4-f9c0-4bef-a9c5-8e0dcd3b34d3",
       "@type" : "sc:Canvas",
-      "label" : "Wiipuri 1901 p.2",
+      "label" : "Wiipuri 1901 p.3",
       "height" : 3537,
       "width" : 2732,
       "images" : [ {
@@ -124,6 +134,11 @@
           "width" : 2732
         },
         "on" : "http://5e273cd4-f9c0-4bef-a9c5-8e0dcd3b34d3"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://iiifeliukk.github.io/iiiftesting/annotations/p3.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Page 3 annotations"
       } ],
       "related" : ""
     }, {
@@ -154,6 +169,11 @@
           "width" : 2595
         },
         "on" : "http://b054c23b-84a5-4334-9a70-b9d5f8631578"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://iiifeliukk.github.io/iiiftesting/annotations/p4.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Page 4 annotations"
       } ],
       "related" : ""
     } ]
