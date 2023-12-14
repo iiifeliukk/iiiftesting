@@ -48,7 +48,7 @@
       "height" : 3515,
       "width" : 2601,
       "seeAlso" : [ {
-        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/786962/page-1.xml",
+        "@id" : "https://raw.githubusercontent.com/iiifeliukk/iiiftesting/main/page-1.xml",
         "label" : "OCR text",
         "format" : "application/xml",
         "profile" : "http://www.loc.gov/standards/alto/ns-v4#"
