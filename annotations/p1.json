@@ -1,0 +1,92 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "advertisement",
+      "@type" : "oa:Tag",
+      "chars" : "advertisement"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "vegetables",
+      "@type" : "oa:Tag",
+      "chars" : "vegetables"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "for sale",
+      "@type" : "oa:Tag",
+      "chars" : "for sale"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "advertisement of vegetables for sale",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>advertisement of vegetables for sale</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153738070",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-14T12:22:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702556557040",
+    "dcterms:modified" : "2023-12-14T12:22:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiifeliukk.github.io/iiiftesting/manifests/manifest_wiipuri2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=11,2122,383,431"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M11.20679,2122.44542h191.48963v0h191.48963v215.30083v215.30083h-191.48963h-191.48963v-215.30083z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2d8334bd-fe92-47fa-b188-aa659d1cc4e8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7dda2e5c-d9a9-4454-890f-9f9207a7e7f7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "clothes",
+      "@type" : "oa:Tag",
+      "chars" : "clothes"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "advertisement",
+      "@type" : "oa:Tag",
+      "chars" : "advertisement"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "a clothing store advertisement&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>a clothing store advertisement&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/153738070",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-14T12:24:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1702556689801",
+    "dcterms:modified" : "2023-12-14T12:24:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://iiifeliukk.github.io/iiiftesting/manifests/manifest_wiipuri2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1488,656,732,859"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1488.22651,656.38024h366.20434v0h366.20434v429.60167v429.60167h-366.20434h-366.20434v-429.60167z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_518422fd-28f5-4f43-baf6-97bc4e36d7bd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7dda2e5c-d9a9-4454-890f-9f9207a7e7f7"
+    } ]
+  } ],
+  "@id" : "https://iiifeliukk.github.io/iiiftesting/annotations/p1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
