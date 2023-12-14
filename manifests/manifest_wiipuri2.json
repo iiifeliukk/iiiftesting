@@ -47,6 +47,12 @@
       "label" : "Wiipuri 1901 p.1",
       "height" : 3515,
       "width" : 2601,
+      "seeAlso" : [ {
+        "@id" : "https://digi.kansalliskirjasto.fi/sanomalehti/binding/786962/page-1.xml",
+        "label" : "OCR text",
+        "format" : "application/xml",
+        "profile" : "http://www.loc.gov/standards/alto/ns-v4#"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://256fbb95-5c7b-493d-a709-bf46a0c7ceac",
