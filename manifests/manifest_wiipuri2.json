@@ -3,6 +3,11 @@
   "@id" : "https://iiifeliukk.github.io/iiiftesting/manifests/manifest_wiipuri2.json",
   "@type" : "sc:Manifest",
   "label" : "Wiipuri 1901",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "SEARCH_ID",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "ISSN",
     "value" : "fk14883"
@@ -68,7 +73,7 @@
       "otherContent" : [ {
         "@id" : "https://iiifeliukk.github.io/iiiftesting/annotations/p1.json",
         "@type" : "sc:AnnotationList",
-        "label" : "Page 1annotations"
+        "label" : "Page 1 annotations"
       } ],
       "related" : ""
     }, {
